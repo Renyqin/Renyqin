@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on making some fun apps
+- 🌱 I’m currently learning Swift and Unity
+
 <!--
 **Renyqin/Renyqin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
